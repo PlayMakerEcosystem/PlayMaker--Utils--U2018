@@ -35,3 +35,7 @@ Builds
 Assets/Plugins
 
 ProjectSettings/
+.vs
+PlayMaker.meta
+Gizmos.meta
+Assets/Gizmos
